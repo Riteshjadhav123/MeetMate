@@ -1,0 +1,26 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Environment variables & credentials
+.env
+*.json
+!credentials.example.json
+
+# Audio and output files
+audio/*
+!audio/.gitkeep
+outputs/*
+!outputs/.gitkeep
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
