@@ -5,7 +5,6 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30%2B-FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Whisper](https://img.shields.io/badge/OpenAI-Whisper-00A67E.svg?logo=openai&logoColor=white)](https://github.com/openai/whisper)
 [![Gemini AI](https://img.shields.io/badge/Google-Gemini_AI-4285F4.svg?logo=google&logoColor=white)](https://ai.google.dev/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **MeetMate** is an end-to-end AI meeting assistant designed to transcribe meeting audio recordings, generate structured executive summaries using Generative AI, and automatically distribute those notes to team members via email.
 
